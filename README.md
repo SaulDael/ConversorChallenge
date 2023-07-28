@@ -1,6 +1,5 @@
 ![image](https://github.com/SaulDael/ConversorChallenge/assets/123760157/70e72d61-504d-477b-976d-a5976415eec6)
 
-![image](https://github.com/SaulDael/ConversorChallenge/assets/123760157/8e708905-2dde-4b6e-a849-9146450e25d2)
 
 
 # Conversor de moneda - Challenge ONE Java
