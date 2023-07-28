@@ -1,12 +1,13 @@
 # ConversorChallenge
 
-Conversor de moneda - Challenge ONE Java
+# Conversor de moneda - Challenge ONE Java
+![image](https://github.com/SaulDael/ConversorChallenge/assets/123760157/37ea3200-5af1-4efb-978b-89fb7118087e)
 
 En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas utilizando el lenguaje Java.
 
 Las características solicitadas por nuestro cliente son las siguientes:
 
-Requisitos:
+# Requisitos:
 El convertidor de moneda debe:
 
       - Convertir de la moneda de tu país a Dólar
@@ -40,6 +41,6 @@ Realiza más de un programa de conversión, además de moneda, puede ser de temp
 
       - Apache NetBeans
 
-Desarrollador:
+# Desarrollador:
 
       - Saul Dael Guzman Hernandez
