@@ -38,7 +38,7 @@ Recordando que también debe ser posible convertir inversamente, es decir:
         
 Realiza más de un programa de conversión, además de moneda, puede ser de temperatura
 
-Tecnologias usadas: 
+# Tecnologias usadas: 
 
 
       - Java 8
