@@ -40,7 +40,6 @@ Realiza más de un programa de conversión, además de moneda, puede ser de temp
 
 # Tecnologias usadas: 
 
-
       - Java 8
 
       - Apache NetBeans
@@ -48,3 +47,5 @@ Realiza más de un programa de conversión, además de moneda, puede ser de temp
 # Desarrollador:
 
       - Saul Dael Guzman Hernandez
+![image](https://github.com/SaulDael/ConversorChallenge/assets/123760157/ea85c0c5-134d-47f9-b278-a1d17348720f)
+
